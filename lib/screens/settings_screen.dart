@@ -38,6 +38,7 @@ class SettingsScreen extends StatelessWidget {
               ),
               CupsSection(store: store),
               ReminderSection(store: store),
+              const UiAppearanceSection(),
               const UiUpdateSection(storeId: 'hydra'),
               const UiDeveloperSection(),
             ],

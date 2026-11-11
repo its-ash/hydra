@@ -1,7 +1,7 @@
 name: hydra
 description: "Hydra: a water tracker with smart reminders. Log a glass from the notification or the home-screen widget."
 publish_to: 'none'
-version: 1.0.2+3
+version: 1.0.3+4
 
 environment:
   sdk: ^3.12.2

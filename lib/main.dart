@@ -18,7 +18,6 @@ class HydraApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return UiApp(
       title: 'Hydra',
-      themeMode: ThemeMode.system,
       home: HomeScreen(store: store),
     );
   }
