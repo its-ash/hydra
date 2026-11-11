@@ -1,0 +1,11 @@
+{
+  "id": "hydra",
+  "name": "Hydra",
+  "repo": "its-ash/hydra",
+  "package": "com.itsash.hydra",
+  "tagline": "Track your water and get smart reminders. Log a glass from the notification or a widget.",
+  "description": "Hydra tracks how much water you drink and reminds you at the right time. See a progress ring for today, add a glass with one tap, and keep a streak of days you reach your goal. Your goal comes from your body weight, activity and the weather, or you can set it yourself. Reminders arrive between your wake and sleep time, skip you if you just drank, and stop once you reach the goal. Add water straight from the notification or the home-screen widget without opening the app. Review the last 7 or 30 days, in ml or oz. Everything stays on your phone.",
+  "category": "Health & Fitness",
+  "icon": "assets/icon/logo-1024.png",
+  "homepage": "https://hydra.itsash.in/"
+}
